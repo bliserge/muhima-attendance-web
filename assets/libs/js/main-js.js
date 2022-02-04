@@ -19,9 +19,6 @@ jQuery(document).ready(function($) {
 
 
     if ($(".menu-list").length) {
-        $('.menu-list').slimScroll({
-
-        });
     }
 
     // ============================================================== 
